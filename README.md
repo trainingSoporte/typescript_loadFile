@@ -1,4 +1,4 @@
-# Repaso de JS y primeros pasos en Typescript
+# Typescript ejemplo Load File
 
 _Aplicacion de Training_
 
