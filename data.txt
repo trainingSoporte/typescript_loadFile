@@ -1,0 +1,58 @@
+[
+{
+    "nombre":"adri",
+    "medallas":[]
+},
+{
+    "nombre":"dolo",
+    "medallas":[]
+},
+{
+    "nombre":"Gaby",
+    "medallas":[]
+},
+{
+    "nombre":"Romi",
+    "medallas":[]
+},
+{
+    "nombre":"Sole",
+    "medallas":[]
+},
+{
+    "nombre":"Mari",
+    "medallas":[]
+},
+{
+    "nombre":"Juli",
+    "medallas":[]
+},
+{
+    "nombre":"Maxi",
+    "medallas":[]
+},
+{
+    "nombre":"Vesna",
+    "medallas":[]
+},
+{
+    "nombre":"Facu",
+    "medallas":[]
+},
+{
+    "nombre":"Fran",
+    "medallas":[]
+},
+{
+    "nombre":"Cele",
+    "medallas":[]
+},
+{
+    "nombre":"Gena",
+    "medallas":[]
+},
+{
+    "nombre":"Santi",
+    "medallas":[]
+}
+]

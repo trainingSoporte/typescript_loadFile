@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@types/node": "^18.0.0"
+  },
+  "name": "js_to_typescript",
+  "description": "_Aplicacion de Training_",
+  "version": "1.0.0",
+  "main": "asincroLoad.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/classes/loadFile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipoadri/js_to_typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipoadri/js_to_typescript/issues"
+  },
+  "homepage": "https://github.com/pipoadri/js_to_typescript#readme"
+}
